@@ -8,3 +8,18 @@ html {
     scroll-snap-align: start;
     height: 760px;
 }
+/*  Faire apparaitre des choses au scrool*/
+
+.appear {
+     animation: abrakadabra 0.5s ease-out forwards;
+}
+
+@keyframes abrakadabra {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
