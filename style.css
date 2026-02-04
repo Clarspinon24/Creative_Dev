@@ -1,0 +1,10 @@
+html {
+  scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+}
+
+.emotion{
+    scroll-snap-align: start;
+    height: 760px;
+}
