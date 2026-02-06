@@ -7,6 +7,6 @@ Notre projet explore la tendresse, la peur et le deuil à travers deux personnag
 
 ## Instructions pour démarrer le projet :
 
-- Récupérer le projet : Ouvrez les fichiers dans Visual Studio Code (ou un autre IDE disposant d'une extension équivalente à "Live Server").
-- Lancer l'aperçu : Activez l'extension Go Live pour héberger le projet localement.
-- Lancer l'expérience : Cliquez sur le bouton pour démarrer l'histoire, puis laissez-vous guider simplement en scrollant (faisant défiler la page).
+- Ouvrez les fichiers dans Visual Studio Code (ou un autre IDE disposant d'une extension équivalente à "Live Server").
+- Activez l'extension Go Live pour héberger le projet localement.
+- Cliquez sur le bouton pour démarrer l'histoire, puis laissez-vous guider simplement en scrollant (faisant défiler la page).
