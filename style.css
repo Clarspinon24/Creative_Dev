@@ -2,11 +2,33 @@ html {
   scroll-behavior: smooth;
   scroll-snap-type: y mandatory;
   overflow-y: scroll;
+  margin: 0;
+  padding: 0;
 }
 
 .emotion{
     scroll-snap-align: start;
-    height: 760px;
+    height: 100vh;
+    margin:0px;
+}
+.tendresse{
+    background-image: url(fond_tendresse.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+  margin:0px;
+}
+.peur{
+justify-self: center;
+align-content: center;
+}
+
+.deuil{
+justify-self: center;
+align-content: center;
+}
+.image{
+margin: 0px;
 }
 /*  Faire apparaitre des choses au scrool*/
 
